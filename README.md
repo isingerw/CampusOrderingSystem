@@ -15,7 +15,7 @@ spring+spring mvc+mybatis+layui+jsp+jquery
 
 1.将项目导入到Idea开发工具中
 
-2.mysql新建数据库biyesheji，复制sql建表语句执行导入
+2.mysql新建数据库singer，复制sql建表语句执行导入
 
 3.修改源码中campus-ordering-system\src\main\resources\jdbc.properties数据库配置文件，修改1-3行，配置为本机数据库地址
 
