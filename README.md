@@ -2,7 +2,11 @@
 
 # Campus-Ordering-System
 
-![](https://singer-1300001977.file.myqcloud.com/%E4%B8%AA%E4%BA%BA%E4%BA%91%E8%B5%84%E6%BA%90/logo222.png)
+<p align="center">
+    <a href="https://singer-1300001977.file.myqcloud.com/%E4%B8%AA%E4%BA%BA%E4%BA%91%E8%B5%84%E6%BA%90/logo222.png">
+        <img src="https://singer-1300001977.file.myqcloud.com/%E4%B8%AA%E4%BA%BA%E4%BA%91%E8%B5%84%E6%BA%90/logo222.png">
+    </a>
+</p>
 
 ---
 
