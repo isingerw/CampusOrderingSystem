@@ -81,7 +81,7 @@
 3. 修改源码中\src\main\resources\jdbc.properties数据库配置文件，修改1-3行，配置为本机数据库地址
 4. 将项目放入tomcat容器中，并启动项目
 5. 浏览器访问地址
-   前台访问路径：http://localhost:8081/fore/foreIndex
+   前台访问路径：http://localhost:8080/fore/foreIndex
    登录账号：张欣 登录密码：795200
-   后台访问地址：http://localhost:8081/login
+   后台访问地址：http://localhost:8080/login
    登录账号：admin  登录密码：795200
