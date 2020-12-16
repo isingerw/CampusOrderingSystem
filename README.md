@@ -1,40 +1,83 @@
 # 校园订餐系统
 
-#### 介绍
-  系统主要分为前台和后台，其中，前台主要功能有：用户注册、用户登录、我的购物车、我的订单、商品评论、校园资讯
+# Campus-Ordering-System
 
-  后台主要功能有：用户管理、商品管理、订单管理、评论管理、资讯管理等
+![](https://singer-1300001977.file.myqcloud.com/%E4%B8%AA%E4%BA%BA%E4%BA%91%E8%B5%84%E6%BA%90/logo222.png)
 
-#### 软件架构
-软件架构说明
+---
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+<p align="center">
+    <a href="https://gitee.com/singerw_admin/campus-ordering-system/blob/master/LICENSE">
+        <img src="https://img.shields.io/badge/license-Apache%202-blue.svg">
+    </a>
+    <a href="https://gitee.com/singerw_admin/campus-ordering-system#">
+        <img src="https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86">
+    </a>
+        <a href="https://gitee.com/singerw_admin/campus-ordering-system#">
+        <img src="https://badgen.net/github/forks/micromatch/micromatch">
+    </a>
+    <a href="https://gitee.com/singerw_admin">
+        <img src="https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh">
+    </a>
+        <a href="https://blog.singerw.com/">
+        <img src="https://badgen.net/badge/icon/rss?icon=rss&label">
+    </a>
+</p>
 
 
 
-#### 特技
+## 系统概要
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
+
+## 功能实现
+
+#### 1. 模块1
+
+-  前台主要功能有：用户注册、用户登录、我的购物车、我的订单、商品评论、校园资讯
+
+#### 2. 模块2
+
+-  后台主要功能有：用户管理、商品管理、订单管理、评论管理、资讯管理等
+
+## 技术选型
+
+### 后台技术选型
+
+- SpringBoot(Spring、SpringMVC)
+- MyBatis
+- Thymeleaf
+
+### 前端技术选型
+
+- Layui
+- jQuery
+
+### 开发环境
+
+- 操作系统：Windows 10
+- 编程语言: Java 8
+- 开发工具: IDEA、Navicat、Git
+- 项目构建: Maven 3.3.9
+- 服务器：Tomcat 8.5
+- 数据库: MySQL
+- 代码托管平台: Gitee
+
+### 部署环境
+
+- 操作系统: CentOS 7.4
+- 编程语言: Java 8
+- 服务器: Tomcat 8.5、Nginx 1.12.2
+- 数据库: MySQL、Redis
+
+###### 部署步骤
+
+1. 将项目导入到Idea开发工具中
+2. mysql新建数据库singer，复制sql建表语句执行导入
+3. 修改源码中\src\main\resources\jdbc.properties数据库配置文件，修改1-3行，配置为本机数据库地址
+4. 将项目放入tomcat容器中，并启动项目
+5. 浏览器访问地址
+   前台访问路径：http://localhost:8081/fore/foreIndex
+   登录账号：张欣 登录密码：795200
+   后台访问地址：http://localhost:8081/login
+   登录账号：admin  登录密码：795200
