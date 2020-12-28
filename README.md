@@ -74,6 +74,9 @@
 - 服务器: Tomcat 8.5、Nginx 1.12.2
 - 数据库: MySQL、Redis
 
+### 项目文档
+[项目文档](https://apidoc.gitee.com/singerw_admin/campus-ordering-system)
+
 ###### 部署步骤
 
 1. 将项目导入到Idea开发工具中
