@@ -1,12 +1,6 @@
 # CampusOrderingSystem（校园订餐系统）
 
 
-<p align="center">
-    <a href="https://singerwimg-1300001977.cos.ap-beijing.myqcloud.com/2021/05/06/a40c8b0406144.jpg">
-        <img src="https://singerwimg-1300001977.cos.ap-beijing.myqcloud.com/2021/05/06/a40c8b0406144.jpg">
-    </a>
-</p>
-
 
 <p align="center">
     <a href="https://github.com/isingerw/CampusOrderingSystem/blob/master/LICENSE">
