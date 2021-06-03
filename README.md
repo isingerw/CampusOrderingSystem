@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="https://singerwimg-1300001977.cos.ap-beijing.myqcloud.com/2021/05/06/a40c8b0406144.jpg">
-        <img src="https://singer-1300001977.file.myqcloud.com/%E4%B8%AA%E4%BA%BA%E4%BA%91%E8%B5%84%E6%BA%90/logo222.png">
+        <img src="https://singerwimg-1300001977.cos.ap-beijing.myqcloud.com/2021/05/06/a40c8b0406144.jpg">
     </a>
 </p>
 
