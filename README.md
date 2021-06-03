@@ -3,14 +3,17 @@
 
 
 <p align="center">
-    <a href="https://github.com/isingerw/CampusOrderingSystem/blob/master/LICENSE">
+    <a href="https://github.com/isingerw/CampusOrderingSystem/issues">
         <img src="https://img.shields.io/github/issues/isingerw/CampusOrderingSystem?style=for-the-badge">
     </a>
+    <a href="https://github.com/isingerw/CampusOrderingSystem/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/isingerw/CampusOrderingSystem?style=for-the-badge">
+    </a>
     <a href="https://github.com/isingerw/CampusOrderingSystem/stargazers">
-        <img src="https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86">
+        <img src="https://img.shields.io/github/forks/isingerw/CampusOrderingSystem?style=for-the-badge">
     </a>
         <a href="https://github.com/isingerw/CampusOrderingSystem/network/members">
-        <img src="https://badgen.net/github/forks/micromatch/micromatch">
+        <img src="https://img.shields.io/github/stars/isingerw/CampusOrderingSystem?style=for-the-badge">
     </a>
         <a href="https://singerw.com/">
         <img src="https://badgen.net/badge/icon/rss?icon=rss&label">
