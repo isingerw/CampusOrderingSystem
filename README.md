@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://github.com/isingerw/CampusOrderingSystem/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/license-Apache%202-blue.svg">
+        <img src="https://img.shields.io/github/issues/isingerw/CampusOrderingSystem?style=for-the-badge">
     </a>
     <a href="https://github.com/isingerw/CampusOrderingSystem/stargazers">
         <img src="https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86">
