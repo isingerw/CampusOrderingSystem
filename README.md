@@ -7,7 +7,6 @@
     </a>
 </p>
 
----
 
 <p align="center">
     <a href="https://github.com/isingerw/CampusOrderingSystem/blob/master/LICENSE">
