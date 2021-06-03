@@ -15,9 +15,6 @@
         <a href="https://github.com/isingerw/CampusOrderingSystem/network/members">
         <img src="https://img.shields.io/github/stars/isingerw/CampusOrderingSystem?style=for-the-badge">
     </a>
-        <a href="https://singerw.com/">
-        <img src="https://badgen.net/badge/icon/rss?icon=rss&label">
-    </a>
 </p>
 
 
